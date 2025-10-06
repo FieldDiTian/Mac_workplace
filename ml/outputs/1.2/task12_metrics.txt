@@ -1,0 +1,4 @@
+RMSE (W/cm²): 21.0439
+MAPE (%): 13.48
+aFerr: 0.1348
+Best generation: 2590
